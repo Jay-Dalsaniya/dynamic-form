@@ -1,11 +1,8 @@
-To include a section for images in your README file, you can add a "Screenshots" section that showcases the application's user interface or key features. Here's how you can integrate that into the existing README structure:
-
-````markdown
 # Dynamic Data Management App
 
 ## Description
 
-The Dynamic Data Management App allows users to dynamically add, view, update, and delete various data entries with multiple input types (text, email, number, select, checkbox). This application is built with React and provides a user-friendly interface for managing data effectively.
+The **Dynamic Data Management App** allows users to dynamically add, view, update, and delete various data entries with multiple input types (text, email, number, select, checkbox). Built with React, this application provides a user-friendly interface for managing data effectively.
 
 ## Features
 
@@ -37,14 +34,14 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/dynamic-data-management-app.git
+   git clone https://github.com/Jay-Dalsaniya/dynamic-form.git
    ```
-````
 
 2. **Navigate to the project directory**:
    ```bash
-   cd dynamic-data-management-app
+   cd dynamic-form
    ```
+
 3. **Install dependencies**:
    ```bash
    npm install
@@ -56,7 +53,9 @@ To run this application locally, follow these steps:
    ```bash
    npm start
    ```
+
 2. Open your browser and navigate to `http://localhost:3000`.
+
 3. Use the navigation bar to access different features of the app:
    - **Home**: Introduction to the app.
    - **Add Data**: Add new data entries with various input types.
